@@ -44,9 +44,7 @@ import Pager from 'react-as-pager';
 $ npm run dev # startup local dev server
 $ npm run build # build
 $ npm run test # run tests
-$ npm run cov # run coverage
 $ npm run build-demo # build demo, auto run in 'npm run build'
-$ npm run build-test # build test, auto run in 'npm run build'
 ```
 
 ## License
